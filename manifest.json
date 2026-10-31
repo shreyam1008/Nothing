@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
   "description": "Does nothing. Zero settings, zero commands, zero features.",
-  "author": "YOUR_NAME",
-  "authorUrl": "https://github.com/YOUR_USERNAME",
+  "author": "sty-ilman",
+  "authorUrl": "https://github.com/sty-ilman",
   "isDesktopOnly": false
 }
